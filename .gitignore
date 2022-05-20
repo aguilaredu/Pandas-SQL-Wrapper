@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Scratchpads
+scratchpad.py
+scratchpad.ipynb
